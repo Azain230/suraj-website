@@ -1,1 +1,84 @@
-# suraj-website
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psychology of Maketing</title>
+</head>
+
+<body
+    style=" background-image: linear-gradient(147deg,#000,#192129 75%); background-repeat:no-repeat; background-size:cover; min-height:100%; color:white;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; ">
+
+    <div style="display: flex;">
+        <div>
+            <div
+                style="color: white; margin:auto; font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-weight:900;padding-top:60px; padding-left: 100px; font-size:xx-large">
+                Psychology of Maketing
+            </div>
+
+            <div style="font-size: 16px; margin-top:30px;padding-left: 100px;">
+                <h1 class="mb-4 text-4xl font-bold text-center lg:text-left">One Email.<br>One Reason.<br>To<!-- -->
+                    <span style="text-decoration:underline;text-decoration-color:cadetblue">Optimize
+                        Your Marketing.</span></h1>
+                <h3 style="font-size: 1.125rem; font-weight:lighter;">
+                    Every Thursday, I share a newsletter with evidence-backed <br> insights that guarantee growth.</h3>
+            </div>
+
+            <div style="padding-left: 100px;">
+                <form action="" method="" name=""
+                    style="border-color: white; border:1px; border-radius:1rem; border-style:solid; display:flex; width:100%; padding: 20px; background-image: linear-gradient(147deg,#000,#192129 90%); background-repeat:no-repeat; background-size:cover; color:white;">
+                    <label for="" style="display: flex; width:100%; ">
+                        <input type="email" name="EMAIL" id="email" placeholder="Join Us For $0"
+                            style="background-color: #192129; width:75%; border:1px; border-radius:1rem; border-style:transparent; padding:10px; ">
+                        <div>
+                            <button type="submit"
+                                style="width:100%; border:1px; border-radius:1rem; border-style:transparent; padding:10px; ">
+                                Grow Here
+                            </button>
+                        </div>
+                    </label>
+                </form>
+                <div style="padding-top:10px; margin:auto; padding-left:10px;">
+                    <label class="p-2 block text-sm" style="font-size: .875rem; line-height:1.25rem; "><input
+                            type="checkbox" class="mr-2" name="MORE" id="MORE" style="padding-top:40px;">Subscribe me to
+                        Marketing Examined, Content Examined, Landing Pages <br> Examined & AI Examined to maximize my
+                        growth.</label>
+                </div>
+                <div class="mt-3 text-sm text-gray-400"
+                    style="font-size:.875rem; line-height:1.25rem; color:rgb(156, 152, 152);">
+                    <p>Join 20,000 subscribers getting these teardowns in their inbox</p>
+                </div>
+
+            </div>
+        </div>
+        <div style="
+        align-items: flex-end;
+        align-self: flex-end;
+        ">
+            <img src="90.png" alt="" style="height:90%;">
+        </div>
+    </div>
+    <div>
+        <div>
+            <h1 style="text-align:center;">Implemented By Some Of The Brightest Minds </h1>
+        </div>
+        <div
+            style="display: flex; padding-left:0; transform: translate3d(0, 0px, 0px) scale3d(1, 1, 1) rotateX(10deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; will-change: transform; display:block">
+            <img src="1.png" alt="" style="width: 250px;">
+            <img src="2.png" alt="">
+            <img src="3.png" alt="">
+            <img src="4.png" alt="">
+            <img src="5.png" alt="">
+            <img src="6.png" alt="">
+            <img src="7.png" alt="">
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>
